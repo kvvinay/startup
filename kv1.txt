@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-=======
-first text
->>>>>>> firstbranch
